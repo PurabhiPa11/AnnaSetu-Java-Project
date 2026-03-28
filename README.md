@@ -111,7 +111,7 @@ To minimize food wastage by creating a bridge between food providers (restaurant
 
 ##  Author
 
-* *Purabhi Patil *
+* Purabhi Patil 
 
 ---
 
