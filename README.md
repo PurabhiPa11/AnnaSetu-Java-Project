@@ -20,7 +20,7 @@ AnnaSetu is a Java based application designed to reduce food waste by connecting
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Java** (Core + OOP Concepts)
 * **Java Swing** (GUI Development)
@@ -47,7 +47,7 @@ AnnaSetu/
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone the repository
 
